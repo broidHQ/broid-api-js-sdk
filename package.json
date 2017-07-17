@@ -1,0 +1,29 @@
+{
+  "name": "broid-api-sdk",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "repository": "git@github.com:broidHQ/broid-api-sdk.git",
+  "license": "AGPL-3.0+",
+  "author": "Broid Team <opensource@broid.ai> (https://broid.ai)",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "types": "./src/interfaces.ts",
+  "scripts": {
+    "docs": "rm -rf docs && node_modules/.bin/typedoc --theme markdown --out ./docs ./src"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  },
+  "devDependencies": {
+    "@types/bluebird": "^3.5.8",
+    "@types/bluebird-global": "^3.5.3",
+    "@types/request-promise": "^4.1.36",
+    "tslint": "^4.3.1",
+    "typedoc": "^0.7.1",
+    "typedoc-plugin-markdown": "^1.0.2",
+    "typescript": "^2.4.1"
+  }
+}
