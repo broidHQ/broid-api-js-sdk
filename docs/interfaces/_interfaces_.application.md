@@ -1,15 +1,15 @@
-[broid-api-sdk](../README.md) > ["interfaces"](../modules/_interfaces_.md) > [User](../interfaces/_interfaces_.user.md)
+[broid-api-sdk](../README.md) > ["interfaces"](../modules/_interfaces_.md) > [Application](../interfaces/_interfaces_.application.md)
 
 
 
-# Interface: User
+# Interface: Application
 
 ## Hierarchy
 
 
  `ObjectConstructor`
 
-**↳ User**
+**↳ Application**
 
 
 
@@ -60,7 +60,7 @@
 <a id="constructor"></a>
 
 
-### ⊕ **new User**(value?: *`any`*): `Object`
+### ⊕ **new Application**(value?: *`any`*): `Object`
 
 
 
@@ -88,25 +88,11 @@
 ## Properties
 <a id="created_at"></a>
 
-### «Optional» created_at
+###  created_at
 
-**●  created_at**:  *`undefined`⎮`string`* 
+**●  created_at**:  *`string`* 
 
-*Defined in [interfaces.ts:4](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L4)*
-
-
-
-
-
-___
-
-<a id="email"></a>
-
-###  email
-
-**●  email**:  *`string`* 
-
-*Defined in [interfaces.ts:5](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L5)*
+*Defined in [interfaces.ts:14](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L14)*
 
 
 
@@ -116,11 +102,11 @@ ___
 
 <a id="id"></a>
 
-### «Optional» id
+###  id
 
-**●  id**:  *`undefined`⎮`number`* 
+**●  id**:  *`string`* 
 
-*Defined in [interfaces.ts:6](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L6)*
+*Defined in [interfaces.ts:15](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L15)*
 
 
 
@@ -130,11 +116,25 @@ ___
 
 <a id="name"></a>
 
-### «Optional» name
+###  name
 
-**●  name**:  *`undefined`⎮`string`* 
+**●  name**:  *`string`* 
 
-*Defined in [interfaces.ts:7](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L7)*
+*Defined in [interfaces.ts:16](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L16)*
+
+
+
+
+
+___
+
+<a id="owner_id"></a>
+
+###  owner_id
+
+**●  owner_id**:  *`string`* 
+
+*Defined in [interfaces.ts:17](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L17)*
 
 
 
@@ -167,7 +167,7 @@ ___
 
 **●  state**:  *`string`* 
 
-*Defined in [interfaces.ts:8](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L8)*
+*Defined in [interfaces.ts:18](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L18)*
 
 
 
@@ -181,7 +181,7 @@ ___
 
 **●  team_id**:  *`number`* 
 
-*Defined in [interfaces.ts:9](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L9)*
+*Defined in [interfaces.ts:19](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L19)*
 
 
 
@@ -191,11 +191,25 @@ ___
 
 <a id="updated_at"></a>
 
-### «Optional» updated_at
+###  updated_at
 
-**●  updated_at**:  *`undefined`⎮`string`* 
+**●  updated_at**:  *`string`* 
 
-*Defined in [interfaces.ts:10](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L10)*
+*Defined in [interfaces.ts:20](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L20)*
+
+
+
+
+
+___
+
+<a id="webhook_url"></a>
+
+### «Optional» webhook_url
+
+**●  webhook_url**:  *`undefined`⎮`string`* 
+
+*Defined in [interfaces.ts:21](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L21)*
 
 
 

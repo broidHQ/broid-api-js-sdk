@@ -1,15 +1,15 @@
-[broid-api-sdk](../README.md) > ["interfaces"](../modules/_interfaces_.md) > [User](../interfaces/_interfaces_.user.md)
+[broid-api-sdk](../README.md) > ["interfaces"](../modules/_interfaces_.md) > [SendMessage](../interfaces/_interfaces_.sendmessage.md)
 
 
 
-# Interface: User
+# Interface: SendMessage
 
 ## Hierarchy
 
 
  `ObjectConstructor`
 
-**↳ User**
+**↳ SendMessage**
 
 
 
@@ -60,7 +60,7 @@
 <a id="constructor"></a>
 
 
-### ⊕ **new User**(value?: *`any`*): `Object`
+### ⊕ **new SendMessage**(value?: *`any`*): `Object`
 
 
 
@@ -86,55 +86,13 @@
 
 
 ## Properties
-<a id="created_at"></a>
+<a id="message"></a>
 
-### «Optional» created_at
+###  message
 
-**●  created_at**:  *`undefined`⎮`string`* 
+**●  message**:  *`any`* 
 
-*Defined in [interfaces.ts:4](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L4)*
-
-
-
-
-
-___
-
-<a id="email"></a>
-
-###  email
-
-**●  email**:  *`string`* 
-
-*Defined in [interfaces.ts:5](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L5)*
-
-
-
-
-
-___
-
-<a id="id"></a>
-
-### «Optional» id
-
-**●  id**:  *`undefined`⎮`number`* 
-
-*Defined in [interfaces.ts:6](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L6)*
-
-
-
-
-
-___
-
-<a id="name"></a>
-
-### «Optional» name
-
-**●  name**:  *`undefined`⎮`string`* 
-
-*Defined in [interfaces.ts:7](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L7)*
+*Defined in [interfaces.ts:47](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L47)*
 
 
 
@@ -155,48 +113,6 @@ ___
 
 
 A reference to the prototype for a class of objects.
-
-
-
-
-___
-
-<a id="state"></a>
-
-###  state
-
-**●  state**:  *`string`* 
-
-*Defined in [interfaces.ts:8](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L8)*
-
-
-
-
-
-___
-
-<a id="team_id"></a>
-
-###  team_id
-
-**●  team_id**:  *`number`* 
-
-*Defined in [interfaces.ts:9](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L9)*
-
-
-
-
-
-___
-
-<a id="updated_at"></a>
-
-### «Optional» updated_at
-
-**●  updated_at**:  *`undefined`⎮`string`* 
-
-*Defined in [interfaces.ts:10](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L10)*
-
 
 
 

@@ -6,10 +6,5 @@
 
 ## Index
 
-### Classes
-
-* [BroidAPISDK](../classes/_index_.broidapisdk.md)
-
-
 
 ---

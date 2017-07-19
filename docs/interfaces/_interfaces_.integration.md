@@ -1,15 +1,15 @@
-[broid-api-sdk](../README.md) > ["interfaces"](../modules/_interfaces_.md) > [User](../interfaces/_interfaces_.user.md)
+[broid-api-sdk](../README.md) > ["interfaces"](../modules/_interfaces_.md) > [Integration](../interfaces/_interfaces_.integration.md)
 
 
 
-# Interface: User
+# Interface: Integration
 
 ## Hierarchy
 
 
  `ObjectConstructor`
 
-**↳ User**
+**↳ Integration**
 
 
 
@@ -60,7 +60,7 @@
 <a id="constructor"></a>
 
 
-### ⊕ **new User**(value?: *`any`*): `Object`
+### ⊕ **new Integration**(value?: *`any`*): `Object`
 
 
 
@@ -86,13 +86,13 @@
 
 
 ## Properties
-<a id="created_at"></a>
+<a id="address"></a>
 
-### «Optional» created_at
+### «Optional» address
 
-**●  created_at**:  *`undefined`⎮`string`* 
+**●  address**:  *`undefined`⎮`string`* 
 
-*Defined in [interfaces.ts:4](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L4)*
+*Defined in [interfaces.ts:25](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L25)*
 
 
 
@@ -100,13 +100,69 @@
 
 ___
 
-<a id="email"></a>
+<a id="application_id"></a>
 
-###  email
+###  application_id
 
-**●  email**:  *`string`* 
+**●  application_id**:  *`number`* 
 
-*Defined in [interfaces.ts:5](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L5)*
+*Defined in [interfaces.ts:26](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L26)*
+
+
+
+
+
+___
+
+<a id="channels"></a>
+
+### «Optional» channels
+
+**●  channels**:  *`undefined`⎮`string`* 
+
+*Defined in [interfaces.ts:29](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L29)*
+
+
+
+
+
+___
+
+<a id="consumer_key"></a>
+
+### «Optional» consumer_key
+
+**●  consumer_key**:  *`undefined`⎮`string`* 
+
+*Defined in [interfaces.ts:27](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L27)*
+
+
+
+
+
+___
+
+<a id="consumer_secret"></a>
+
+### «Optional» consumer_secret
+
+**●  consumer_secret**:  *`undefined`⎮`string`* 
+
+*Defined in [interfaces.ts:28](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L28)*
+
+
+
+
+
+___
+
+<a id="created_at"></a>
+
+### «Optional» created_at
+
+**●  created_at**:  *`undefined`⎮`string`* 
+
+*Defined in [interfaces.ts:30](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L30)*
 
 
 
@@ -120,7 +176,7 @@ ___
 
 **●  id**:  *`undefined`⎮`number`* 
 
-*Defined in [interfaces.ts:6](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L6)*
+*Defined in [interfaces.ts:31](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L31)*
 
 
 
@@ -130,11 +186,11 @@ ___
 
 <a id="name"></a>
 
-### «Optional» name
+###  name
 
-**●  name**:  *`undefined`⎮`string`* 
+**●  name**:  *`string`* 
 
-*Defined in [interfaces.ts:7](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L7)*
+*Defined in [interfaces.ts:32](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L32)*
 
 
 
@@ -161,13 +217,13 @@ A reference to the prototype for a class of objects.
 
 ___
 
-<a id="state"></a>
+<a id="refresh"></a>
 
-###  state
+### «Optional» refresh
 
-**●  state**:  *`string`* 
+**●  refresh**:  *`undefined`⎮`string`* 
 
-*Defined in [interfaces.ts:8](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L8)*
+*Defined in [interfaces.ts:33](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L33)*
 
 
 
@@ -175,13 +231,41 @@ ___
 
 ___
 
-<a id="team_id"></a>
+<a id="secret"></a>
 
-###  team_id
+### «Optional» secret
 
-**●  team_id**:  *`number`* 
+**●  secret**:  *`undefined`⎮`string`* 
 
-*Defined in [interfaces.ts:9](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L9)*
+*Defined in [interfaces.ts:34](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L34)*
+
+
+
+
+
+___
+
+<a id="state"></a>
+
+###  state
+
+**●  state**:  *`string`* 
+
+*Defined in [interfaces.ts:35](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L35)*
+
+
+
+
+
+___
+
+<a id="token"></a>
+
+### «Optional» token
+
+**●  token**:  *`undefined`⎮`string`* 
+
+*Defined in [interfaces.ts:36](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L36)*
 
 
 
@@ -195,7 +279,21 @@ ___
 
 **●  updated_at**:  *`undefined`⎮`string`* 
 
-*Defined in [interfaces.ts:10](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L10)*
+*Defined in [interfaces.ts:37](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L37)*
+
+
+
+
+
+___
+
+<a id="username"></a>
+
+### «Optional» username
+
+**●  username**:  *`undefined`⎮`string`* 
+
+*Defined in [interfaces.ts:38](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L38)*
 
 
 

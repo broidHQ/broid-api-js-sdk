@@ -3,6 +3,7 @@
     "removeComments": true,
     "preserveConstEnums": true,
     "moduleResolution": "node",
+    "baseUrl": ".",
     "target": "es2015",
     "module": "commonjs",
     "outDir": "lib",

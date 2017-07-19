@@ -1,15 +1,15 @@
-[broid-api-sdk](../README.md) > ["interfaces"](../modules/_interfaces_.md) > [User](../interfaces/_interfaces_.user.md)
+[broid-api-sdk](../README.md) > ["interfaces"](../modules/_interfaces_.md) > [ApplicationWebHookURL](../interfaces/_interfaces_.applicationwebhookurl.md)
 
 
 
-# Interface: User
+# Interface: ApplicationWebHookURL
 
 ## Hierarchy
 
 
  `ObjectConstructor`
 
-**↳ User**
+**↳ ApplicationWebHookURL**
 
 
 
@@ -60,7 +60,7 @@
 <a id="constructor"></a>
 
 
-### ⊕ **new User**(value?: *`any`*): `Object`
+### ⊕ **new ApplicationWebHookURL**(value?: *`any`*): `Object`
 
 
 
@@ -86,62 +86,6 @@
 
 
 ## Properties
-<a id="created_at"></a>
-
-### «Optional» created_at
-
-**●  created_at**:  *`undefined`⎮`string`* 
-
-*Defined in [interfaces.ts:4](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L4)*
-
-
-
-
-
-___
-
-<a id="email"></a>
-
-###  email
-
-**●  email**:  *`string`* 
-
-*Defined in [interfaces.ts:5](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L5)*
-
-
-
-
-
-___
-
-<a id="id"></a>
-
-### «Optional» id
-
-**●  id**:  *`undefined`⎮`number`* 
-
-*Defined in [interfaces.ts:6](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L6)*
-
-
-
-
-
-___
-
-<a id="name"></a>
-
-### «Optional» name
-
-**●  name**:  *`undefined`⎮`string`* 
-
-*Defined in [interfaces.ts:7](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L7)*
-
-
-
-
-
-___
-
 <a id="prototype"></a>
 
 ###  prototype
@@ -167,7 +111,7 @@ ___
 
 **●  state**:  *`string`* 
 
-*Defined in [interfaces.ts:8](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L8)*
+*Defined in [interfaces.ts:42](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L42)*
 
 
 
@@ -181,21 +125,7 @@ ___
 
 **●  team_id**:  *`number`* 
 
-*Defined in [interfaces.ts:9](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L9)*
-
-
-
-
-
-___
-
-<a id="updated_at"></a>
-
-### «Optional» updated_at
-
-**●  updated_at**:  *`undefined`⎮`string`* 
-
-*Defined in [interfaces.ts:10](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L10)*
+*Defined in [interfaces.ts:43](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L43)*
 
 
 
