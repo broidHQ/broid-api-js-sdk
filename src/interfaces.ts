@@ -14,3 +14,8 @@ export interface User extends ObjectConstructor {
   team: number,
   updatedAt: string,
 }
+
+
+export interface SendMessage extends ObjectConstructor {
+  message: any,
+}
