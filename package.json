@@ -1,5 +1,5 @@
 {
-  "name": "broid-api-sdk",
+  "name": "@broid/api-sdk",
   "version": "0.0.1",
   "main": "lib/index.js",
   "repository": "git@github.com:broidHQ/broid-api-sdk.git",

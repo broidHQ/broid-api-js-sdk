@@ -1,4 +1,4 @@
-[broid-api-sdk](../README.md) > ["endpoints/Application"](../modules/_endpoints_application_.md) > [Application](../classes/_endpoints_application_.application.md)
+[@broid/api-sdk](../README.md) > ["endpoints/Application"](../modules/_endpoints_application_.md) > [Application](../classes/_endpoints_application_.application.md)
 
 
 
@@ -32,7 +32,7 @@
 
 
 
-*Defined in endpoints/Application.ts:7*
+*Defined in [endpoints/Application.ts:7](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/endpoints/Application.ts#L7)*
 
 
 
@@ -63,7 +63,7 @@
 
 
 
-*Defined in endpoints/Application.ts:12*
+*Defined in [endpoints/Application.ts:12](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/endpoints/Application.ts#L12)*
 
 
 
@@ -94,7 +94,7 @@ ___
 
 
 
-*Defined in endpoints/Application.ts:17*
+*Defined in [endpoints/Application.ts:17](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/endpoints/Application.ts#L17)*
 
 
 
@@ -125,7 +125,7 @@ ___
 
 
 
-*Defined in endpoints/Application.ts:22*
+*Defined in [endpoints/Application.ts:22](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/endpoints/Application.ts#L22)*
 
 
 
@@ -156,7 +156,7 @@ ___
 
 
 
-*Defined in endpoints/Application.ts:27*
+*Defined in [endpoints/Application.ts:27](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/endpoints/Application.ts#L27)*
 
 
 
@@ -187,7 +187,7 @@ ___
 
 
 
-*Defined in endpoints/Application.ts:33*
+*Defined in [endpoints/Application.ts:33](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/endpoints/Application.ts#L33)*
 
 
 
@@ -218,7 +218,7 @@ ___
 
 
 
-*Defined in endpoints/Application.ts:46*
+*Defined in [endpoints/Application.ts:46](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/endpoints/Application.ts#L46)*
 
 
 
@@ -250,7 +250,7 @@ ___
 
 
 
-*Defined in endpoints/Application.ts:38*
+*Defined in [endpoints/Application.ts:38](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/endpoints/Application.ts#L38)*
 
 
 

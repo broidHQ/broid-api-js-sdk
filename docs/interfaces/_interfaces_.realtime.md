@@ -1,4 +1,4 @@
-[broid-api-sdk](../README.md) > ["interfaces"](../modules/_interfaces_.md) > [Realtime](../interfaces/_interfaces_.realtime.md)
+[@broid/api-sdk](../README.md) > ["interfaces"](../modules/_interfaces_.md) > [Realtime](../interfaces/_interfaces_.realtime.md)
 
 
 
@@ -25,7 +25,7 @@
 
 
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:131*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:131*
 
 
 
@@ -36,7 +36,7 @@
 
 
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:132*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:132*
 
 
 
@@ -66,7 +66,7 @@
 
 *Inherited from ObjectConstructor.__new*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:130*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:130*
 
 
 
@@ -94,7 +94,7 @@
 
 *Inherited from ObjectConstructor.prototype*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:136*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:136*
 
 
 
@@ -111,7 +111,7 @@ ___
 
 **●  url**:  *`string`* 
 
-*Defined in [interfaces.ts:51](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/interfaces.ts#L51)*
+*Defined in [interfaces.ts:51](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/interfaces.ts#L51)*
 
 
 
@@ -138,7 +138,7 @@ ___
 
 *Inherited from ObjectConstructor.assign*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:4568*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:4568*
 
 
 
@@ -167,7 +167,7 @@ Copy the values of all of the enumerable own properties from one or more source 
 
 *Inherited from ObjectConstructor.assign*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:4577*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:4577*
 
 
 
@@ -198,7 +198,7 @@ Copy the values of all of the enumerable own properties from one or more source 
 
 *Inherited from ObjectConstructor.assign*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:4587*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:4587*
 
 
 
@@ -231,7 +231,7 @@ Copy the values of all of the enumerable own properties from one or more source 
 
 *Inherited from ObjectConstructor.assign*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:4595*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:4595*
 
 
 
@@ -270,7 +270,7 @@ ___
 
 *Inherited from ObjectConstructor.create*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:163*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:163*
 
 
 
@@ -294,7 +294,7 @@ Creates an object that has the specified prototype or that has null prototype.
 
 *Inherited from ObjectConstructor.create*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:170*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:170*
 
 
 
@@ -331,7 +331,7 @@ ___
 
 *Inherited from ObjectConstructor.defineProperties*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:185*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:185*
 
 
 
@@ -370,7 +370,7 @@ ___
 
 *Overrides ObjectConstructor.defineProperty*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:178*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:178*
 
 
 
@@ -412,7 +412,7 @@ ___
 
 *Inherited from ObjectConstructor.freeze*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:197*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:197*
 
 
 
@@ -439,7 +439,7 @@ Prevents the modification of existing property attributes and values, and preven
 
 *Inherited from ObjectConstructor.freeze*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:203*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:203*
 
 
 
@@ -466,7 +466,7 @@ Prevents the modification of existing property attributes and values, and preven
 
 *Inherited from ObjectConstructor.freeze*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:209*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:209*
 
 
 
@@ -507,7 +507,7 @@ ___
 
 *Overrides ObjectConstructor.getOwnPropertyDescriptor*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:150*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:150*
 
 
 
@@ -544,7 +544,7 @@ ___
 
 *Inherited from ObjectConstructor.getOwnPropertyNames*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:157*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:157*
 
 
 
@@ -580,7 +580,7 @@ ___
 
 *Inherited from ObjectConstructor.getOwnPropertySymbols*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:4601*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:4601*
 
 
 
@@ -616,7 +616,7 @@ ___
 
 *Inherited from ObjectConstructor.getPrototypeOf*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:142*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:142*
 
 
 
@@ -652,7 +652,7 @@ ___
 
 *Inherited from ObjectConstructor.is*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:4608*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:4608*
 
 
 
@@ -689,7 +689,7 @@ ___
 
 *Inherited from ObjectConstructor.isExtensible*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:233*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:233*
 
 
 
@@ -725,7 +725,7 @@ ___
 
 *Inherited from ObjectConstructor.isFrozen*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:227*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:227*
 
 
 
@@ -761,7 +761,7 @@ ___
 
 *Inherited from ObjectConstructor.isSealed*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:221*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:221*
 
 
 
@@ -797,7 +797,7 @@ ___
 
 *Inherited from ObjectConstructor.keys*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:239*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:239*
 
 
 
@@ -833,7 +833,7 @@ ___
 
 *Inherited from ObjectConstructor.preventExtensions*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:215*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:215*
 
 
 
@@ -872,7 +872,7 @@ ___
 
 *Inherited from ObjectConstructor.seal*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:191*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:191*
 
 
 
@@ -911,7 +911,7 @@ ___
 
 *Inherited from ObjectConstructor.setPrototypeOf*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:4615*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/typedoc/node_modules/typescript/lib/lib.es6.d.ts:4615*
 
 
 

@@ -1,4 +1,4 @@
-[broid-api-sdk](../README.md) > ["endpoints/Integration"](../modules/_endpoints_integration_.md) > [Integration](../classes/_endpoints_integration_.integration.md)
+[@broid/api-sdk](../README.md) > ["endpoints/Integration"](../modules/_endpoints_integration_.md) > [Integration](../classes/_endpoints_integration_.integration.md)
 
 
 
@@ -29,7 +29,7 @@
 
 
 
-*Defined in endpoints/Integration.ts:7*
+*Defined in [endpoints/Integration.ts:7](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/endpoints/Integration.ts#L7)*
 
 
 
@@ -60,7 +60,7 @@
 
 
 
-*Defined in endpoints/Integration.ts:12*
+*Defined in [endpoints/Integration.ts:12](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/endpoints/Integration.ts#L12)*
 
 
 
@@ -91,7 +91,7 @@ ___
 
 
 
-*Defined in endpoints/Integration.ts:17*
+*Defined in [endpoints/Integration.ts:17](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/endpoints/Integration.ts#L17)*
 
 
 
@@ -122,7 +122,7 @@ ___
 
 
 
-*Defined in endpoints/Integration.ts:22*
+*Defined in [endpoints/Integration.ts:22](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/endpoints/Integration.ts#L22)*
 
 
 
@@ -153,7 +153,7 @@ ___
 
 
 
-*Defined in endpoints/Integration.ts:27*
+*Defined in [endpoints/Integration.ts:27](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/endpoints/Integration.ts#L27)*
 
 
 

@@ -1,4 +1,4 @@
-[broid-api-sdk](../README.md) > ["endpoints/Integration"](../modules/_endpoints_integration_.md)
+[@broid/api-sdk](../README.md) > ["endpoints/Integration"](../modules/_endpoints_integration_.md)
 
 
 

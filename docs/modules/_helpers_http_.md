@@ -1,4 +1,4 @@
-[broid-api-sdk](../README.md) > ["helpers/Http"](../modules/_helpers_http_.md)
+[@broid/api-sdk](../README.md) > ["helpers/Http"](../modules/_helpers_http_.md)
 
 
 
@@ -26,7 +26,7 @@
 
 **●  EXP_TTL**:  *`number`*  =  (60 * 60)
 
-*Defined in helpers/Http.ts:6*
+*Defined in [helpers/Http.ts:6](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/helpers/Http.ts#L6)*
 
 
 
@@ -40,7 +40,7 @@ ___
 
 **●  JSONstrict**:  *`any`*  =  jsonBigint({'strict': true})
 
-*Defined in helpers/Http.ts:7*
+*Defined in [helpers/Http.ts:7](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/helpers/Http.ts#L7)*
 
 
 

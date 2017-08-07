@@ -1,4 +1,4 @@
-[broid-api-sdk](../README.md) > ["interfaces"](../modules/_interfaces_.md)
+[@broid/api-sdk](../README.md) > ["interfaces"](../modules/_interfaces_.md)
 
 
 

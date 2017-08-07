@@ -1,4 +1,4 @@
-[broid-api-sdk](../README.md) > ["helpers/Http"](../modules/_helpers_http_.md) > [Http](../classes/_helpers_http_.http.md)
+[@broid/api-sdk](../README.md) > ["helpers/Http"](../modules/_helpers_http_.md) > [Http](../classes/_helpers_http_.http.md)
 
 
 
@@ -28,7 +28,7 @@
 
 
 
-*Defined in helpers/Http.ts:9*
+*Defined in [helpers/Http.ts:9](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/helpers/Http.ts#L9)*
 
 
 
@@ -61,7 +61,7 @@
 
 
 
-*Defined in helpers/Http.ts:16*
+*Defined in [helpers/Http.ts:16](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/helpers/Http.ts#L16)*
 
 
 
@@ -93,7 +93,7 @@ ___
 
 
 
-*Defined in helpers/Http.ts:26*
+*Defined in [helpers/Http.ts:26](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/helpers/Http.ts#L26)*
 
 
 
@@ -116,7 +116,7 @@ ___
 
 
 
-*Defined in helpers/Http.ts:37*
+*Defined in [helpers/Http.ts:37](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/helpers/Http.ts#L37)*
 
 
 
