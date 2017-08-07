@@ -5,7 +5,7 @@ Broid's API SDK javascript module with Typescript support. Check out the [docs](
 for parameters and usage.
 
 ```javascript
-const broidSDK = require("./lib/index.js");
+const broidSDK = require("@broid/api-sdk");
 
 const botActorID = "";
 const auto_reply = true;

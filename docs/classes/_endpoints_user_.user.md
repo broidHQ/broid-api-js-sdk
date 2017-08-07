@@ -1,4 +1,4 @@
-[broid-api-sdk](../README.md) > ["endpoints/User"](../modules/_endpoints_user_.md) > [User](../classes/_endpoints_user_.user.md)
+[@broid/api-sdk](../README.md) > ["endpoints/User"](../modules/_endpoints_user_.md) > [User](../classes/_endpoints_user_.user.md)
 
 
 
@@ -27,7 +27,7 @@
 
 
 
-*Defined in endpoints/User.ts:7*
+*Defined in [endpoints/User.ts:7](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/endpoints/User.ts#L7)*
 
 
 
@@ -58,7 +58,7 @@
 
 
 
-*Defined in endpoints/User.ts:12*
+*Defined in [endpoints/User.ts:12](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/endpoints/User.ts#L12)*
 
 
 
@@ -81,7 +81,7 @@ ___
 
 
 
-*Defined in endpoints/User.ts:16*
+*Defined in [endpoints/User.ts:16](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/endpoints/User.ts#L16)*
 
 
 

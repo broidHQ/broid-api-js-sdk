@@ -1,4 +1,4 @@
-[broid-api-sdk](../README.md) > ["index"](../modules/_index_.md)
+[@broid/api-sdk](../README.md) > ["index"](../modules/_index_.md)
 
 
 

@@ -1,4 +1,4 @@
-[broid-api-sdk](../README.md) > ["endpoints/Application"](../modules/_endpoints_application_.md)
+[@broid/api-sdk](../README.md) > ["endpoints/Application"](../modules/_endpoints_application_.md)
 
 
 

@@ -1,4 +1,4 @@
-[broid-api-sdk](../README.md) > ["endpoints/Realtime"](../modules/_endpoints_realtime_.md)
+[@broid/api-sdk](../README.md) > ["endpoints/Realtime"](../modules/_endpoints_realtime_.md)
 
 
 
@@ -25,7 +25,7 @@
 
 **●  JSONstrict**:  *`any`*  =  jsonBigint({'strict': true})
 
-*Defined in endpoints/Realtime.ts:10*
+*Defined in [endpoints/Realtime.ts:10](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/endpoints/Realtime.ts#L10)*
 
 
 

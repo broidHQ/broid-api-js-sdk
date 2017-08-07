@@ -1,4 +1,4 @@
-[broid-api-sdk](../README.md) > ["BroidAPISDK"](../modules/_broidapisdk_.md)
+[@broid/api-sdk](../README.md) > ["BroidAPISDK"](../modules/_broidapisdk_.md)
 
 
 

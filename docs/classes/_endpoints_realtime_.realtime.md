@@ -1,4 +1,4 @@
-[broid-api-sdk](../README.md) > ["endpoints/Realtime"](../modules/_endpoints_realtime_.md) > [Realtime](../classes/_endpoints_realtime_.realtime.md)
+[@broid/api-sdk](../README.md) > ["endpoints/Realtime"](../modules/_endpoints_realtime_.md) > [Realtime](../classes/_endpoints_realtime_.realtime.md)
 
 
 
@@ -199,7 +199,7 @@
 
 *Overrides Subject.__constructor*
 
-*Defined in endpoints/Realtime.ts:17*
+*Defined in [endpoints/Realtime.ts:17](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/endpoints/Realtime.ts#L17)*
 
 
 
@@ -230,7 +230,7 @@
 
 *Inherited from Observable._isScalar*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/Observable.d.ts:19*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/Observable.d.ts:19*
 
 
 
@@ -246,7 +246,7 @@ ___
 
 *Inherited from Subject.closed*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/Subject.d.ts:18*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/Subject.d.ts:18*
 
 
 
@@ -260,7 +260,7 @@ ___
 
 **●  connectionStatus**:  *`Observable`.<`boolean`>* 
 
-*Defined in endpoints/Realtime.ts:17*
+*Defined in [endpoints/Realtime.ts:17](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/endpoints/Realtime.ts#L17)*
 
 
 
@@ -276,7 +276,7 @@ ___
 
 *Inherited from Subject.hasError*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/Subject.d.ts:20*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/Subject.d.ts:20*
 
 
 
@@ -290,7 +290,7 @@ ___
 
 **●  http**:  *[Http](_helpers_http_.http.md)* 
 
-*Defined in endpoints/Realtime.ts:19*
+*Defined in [endpoints/Realtime.ts:19](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/endpoints/Realtime.ts#L19)*
 
 
 
@@ -306,7 +306,7 @@ ___
 
 *Inherited from Subject.isStopped*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/Subject.d.ts:19*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/Subject.d.ts:19*
 
 
 
@@ -320,7 +320,7 @@ ___
 
 **●  logger**:  *`Logger`* 
 
-*Defined in endpoints/Realtime.ts:20*
+*Defined in [endpoints/Realtime.ts:20](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/endpoints/Realtime.ts#L20)*
 
 
 
@@ -336,7 +336,7 @@ ___
 
 *Inherited from Subject.observers*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/Subject.d.ts:17*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/Subject.d.ts:17*
 
 
 
@@ -352,7 +352,7 @@ ___
 
 *Inherited from Observable.operator*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/Observable.d.ts:21*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/Observable.d.ts:21*
 
 
 
@@ -366,7 +366,7 @@ ___
 
 **●  reconnectAttempts**:  *`number`* 
 
-*Defined in endpoints/Realtime.ts:22*
+*Defined in [endpoints/Realtime.ts:22](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/endpoints/Realtime.ts#L22)*
 
 
 
@@ -380,7 +380,7 @@ ___
 
 **●  reconnectInterval**:  *`number`* 
 
-*Defined in endpoints/Realtime.ts:21*
+*Defined in [endpoints/Realtime.ts:21](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/endpoints/Realtime.ts#L21)*
 
 
 
@@ -394,7 +394,7 @@ ___
 
 **●  reconnectionObservable**:  *`Observable`.<`number`>⎮`null`* 
 
-*Defined in endpoints/Realtime.ts:13*
+*Defined in [endpoints/Realtime.ts:13](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/endpoints/Realtime.ts#L13)*
 
 
 
@@ -408,7 +408,7 @@ ___
 
 **●  reconnectionSubscriber**:  *`Subscription`⎮`null`* 
 
-*Defined in endpoints/Realtime.ts:14*
+*Defined in [endpoints/Realtime.ts:14](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/endpoints/Realtime.ts#L14)*
 
 
 
@@ -424,7 +424,7 @@ ___
 
 *Inherited from Observable.source*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/Observable.d.ts:20*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/Observable.d.ts:20*
 
 
 
@@ -440,7 +440,7 @@ ___
 
 *Inherited from Subject.thrownError*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/Subject.d.ts:21*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/Subject.d.ts:21*
 
 
 
@@ -454,7 +454,7 @@ ___
 
 **●  websocket**:  *[WebSocket](_helpers_websocket_.websocket.md)`any`⎮`null`* 
 
-*Defined in endpoints/Realtime.ts:15*
+*Defined in [endpoints/Realtime.ts:15](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/endpoints/Realtime.ts#L15)*
 
 
 
@@ -470,7 +470,7 @@ ___
 
 *Inherited from Observable._catch*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/catch.d.ts:5*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/catch.d.ts:5*
 
 
 
@@ -486,7 +486,7 @@ ___
 
 *Inherited from Observable._do*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/do.d.ts:5*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/do.d.ts:5*
 
 
 
@@ -502,7 +502,7 @@ ___
 
 *Inherited from Observable._finally*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/finally.d.ts:5*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/finally.d.ts:5*
 
 
 
@@ -518,7 +518,7 @@ ___
 
 *Inherited from Observable._switch*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/switch.d.ts:5*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/switch.d.ts:5*
 
 
 
@@ -534,7 +534,7 @@ ___
 
 *Inherited from Observable.audit*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/audit.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/audit.d.ts:4*
 
 
 
@@ -550,7 +550,7 @@ ___
 
 *Inherited from Observable.auditTime*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/auditTime.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/auditTime.d.ts:4*
 
 
 
@@ -566,7 +566,7 @@ ___
 
 *Inherited from Observable.buffer*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/buffer.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/buffer.d.ts:4*
 
 
 
@@ -582,7 +582,7 @@ ___
 
 *Inherited from Observable.bufferCount*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/bufferCount.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/bufferCount.d.ts:4*
 
 
 
@@ -598,7 +598,7 @@ ___
 
 *Inherited from Observable.bufferTime*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/bufferTime.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/bufferTime.d.ts:4*
 
 
 
@@ -614,7 +614,7 @@ ___
 
 *Inherited from Observable.bufferToggle*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/bufferToggle.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/bufferToggle.d.ts:4*
 
 
 
@@ -630,7 +630,7 @@ ___
 
 *Inherited from Observable.bufferWhen*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/bufferWhen.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/bufferWhen.d.ts:4*
 
 
 
@@ -646,7 +646,7 @@ ___
 
 *Inherited from Observable.catch*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/catch.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/catch.d.ts:4*
 
 
 
@@ -662,7 +662,7 @@ ___
 
 *Inherited from Observable.combineAll*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/combineAll.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/combineAll.d.ts:4*
 
 
 
@@ -678,7 +678,7 @@ ___
 
 *Inherited from Observable.combineLatest*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/combineLatest.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/combineLatest.d.ts:4*
 
 
 
@@ -694,7 +694,7 @@ ___
 
 *Inherited from Observable.concat*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/concat.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/concat.d.ts:4*
 
 
 
@@ -710,7 +710,7 @@ ___
 
 *Inherited from Observable.concatAll*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/concatAll.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/concatAll.d.ts:4*
 
 
 
@@ -726,7 +726,7 @@ ___
 
 *Inherited from Observable.concatMap*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/concatMap.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/concatMap.d.ts:4*
 
 
 
@@ -742,7 +742,7 @@ ___
 
 *Inherited from Observable.concatMapTo*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/concatMapTo.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/concatMapTo.d.ts:4*
 
 
 
@@ -758,7 +758,7 @@ ___
 
 *Inherited from Observable.count*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/count.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/count.d.ts:4*
 
 
 
@@ -776,7 +776,7 @@ ___
 
 *Overrides Observable.create*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/Subject.d.ts:23*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/Subject.d.ts:23*
 
 
 
@@ -792,7 +792,7 @@ ___
 
 *Inherited from Observable.debounce*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/debounce.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/debounce.d.ts:4*
 
 
 
@@ -808,7 +808,7 @@ ___
 
 *Inherited from Observable.debounceTime*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/debounceTime.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/debounceTime.d.ts:4*
 
 
 
@@ -824,7 +824,7 @@ ___
 
 *Inherited from Observable.defaultIfEmpty*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/defaultIfEmpty.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/defaultIfEmpty.d.ts:4*
 
 
 
@@ -840,7 +840,7 @@ ___
 
 *Inherited from Observable.delay*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/delay.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/delay.d.ts:4*
 
 
 
@@ -856,7 +856,7 @@ ___
 
 *Inherited from Observable.delayWhen*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/delayWhen.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/delayWhen.d.ts:4*
 
 
 
@@ -872,7 +872,7 @@ ___
 
 *Inherited from Observable.dematerialize*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/dematerialize.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/dematerialize.d.ts:4*
 
 
 
@@ -888,7 +888,7 @@ ___
 
 *Inherited from Observable.distinct*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/distinct.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/distinct.d.ts:4*
 
 
 
@@ -904,7 +904,7 @@ ___
 
 *Inherited from Observable.distinctUntilChanged*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/distinctUntilChanged.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/distinctUntilChanged.d.ts:4*
 
 
 
@@ -920,7 +920,7 @@ ___
 
 *Inherited from Observable.distinctUntilKeyChanged*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/distinctUntilKeyChanged.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/distinctUntilKeyChanged.d.ts:4*
 
 
 
@@ -936,7 +936,7 @@ ___
 
 *Inherited from Observable.do*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/do.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/do.d.ts:4*
 
 
 
@@ -952,7 +952,7 @@ ___
 
 *Inherited from Observable.elementAt*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/elementAt.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/elementAt.d.ts:4*
 
 
 
@@ -968,7 +968,7 @@ ___
 
 *Inherited from Observable.every*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/every.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/every.d.ts:4*
 
 
 
@@ -984,7 +984,7 @@ ___
 
 *Inherited from Observable.exhaust*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/exhaust.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/exhaust.d.ts:4*
 
 
 
@@ -1000,7 +1000,7 @@ ___
 
 *Inherited from Observable.exhaustMap*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/exhaustMap.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/exhaustMap.d.ts:4*
 
 
 
@@ -1016,7 +1016,7 @@ ___
 
 *Inherited from Observable.expand*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/expand.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/expand.d.ts:4*
 
 
 
@@ -1032,7 +1032,7 @@ ___
 
 *Inherited from Observable.filter*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/filter.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/filter.d.ts:4*
 
 
 
@@ -1048,7 +1048,7 @@ ___
 
 *Inherited from Observable.finally*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/finally.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/finally.d.ts:4*
 
 
 
@@ -1064,7 +1064,7 @@ ___
 
 *Inherited from Observable.find*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/find.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/find.d.ts:4*
 
 
 
@@ -1080,7 +1080,7 @@ ___
 
 *Inherited from Observable.findIndex*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/findIndex.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/findIndex.d.ts:4*
 
 
 
@@ -1096,7 +1096,7 @@ ___
 
 *Inherited from Observable.first*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/first.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/first.d.ts:4*
 
 
 
@@ -1112,7 +1112,7 @@ ___
 
 *Inherited from Observable.flatMap*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/mergeMap.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/mergeMap.d.ts:4*
 
 
 
@@ -1128,7 +1128,7 @@ ___
 
 *Inherited from Observable.flatMapTo*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/mergeMapTo.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/mergeMapTo.d.ts:4*
 
 
 
@@ -1144,7 +1144,7 @@ ___
 
 *Inherited from Observable.groupBy*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/groupBy.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/groupBy.d.ts:4*
 
 
 
@@ -1160,7 +1160,7 @@ ___
 
 *Inherited from Observable.if*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/Observable.d.ts:60*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/Observable.d.ts:60*
 
 
 
@@ -1176,7 +1176,7 @@ ___
 
 *Inherited from Observable.ignoreElements*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/ignoreElements.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/ignoreElements.d.ts:4*
 
 
 
@@ -1192,7 +1192,7 @@ ___
 
 *Inherited from Observable.isEmpty*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/isEmpty.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/isEmpty.d.ts:4*
 
 
 
@@ -1208,7 +1208,7 @@ ___
 
 *Inherited from Observable.last*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/last.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/last.d.ts:4*
 
 
 
@@ -1224,7 +1224,7 @@ ___
 
 *Inherited from Observable.let*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/let.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/let.d.ts:4*
 
 
 
@@ -1240,7 +1240,7 @@ ___
 
 *Inherited from Observable.letBind*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/let.d.ts:5*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/let.d.ts:5*
 
 
 
@@ -1256,7 +1256,7 @@ ___
 
 *Inherited from Observable.map*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/map.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/map.d.ts:4*
 
 
 
@@ -1272,7 +1272,7 @@ ___
 
 *Inherited from Observable.mapTo*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/mapTo.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/mapTo.d.ts:4*
 
 
 
@@ -1288,7 +1288,7 @@ ___
 
 *Inherited from Observable.materialize*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/materialize.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/materialize.d.ts:4*
 
 
 
@@ -1304,7 +1304,7 @@ ___
 
 *Inherited from Observable.max*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/max.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/max.d.ts:4*
 
 
 
@@ -1320,7 +1320,7 @@ ___
 
 *Inherited from Observable.merge*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/merge.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/merge.d.ts:4*
 
 
 
@@ -1336,7 +1336,7 @@ ___
 
 *Inherited from Observable.mergeAll*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/mergeAll.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/mergeAll.d.ts:4*
 
 
 
@@ -1352,7 +1352,7 @@ ___
 
 *Inherited from Observable.mergeMap*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/mergeMap.d.ts:5*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/mergeMap.d.ts:5*
 
 
 
@@ -1368,7 +1368,7 @@ ___
 
 *Inherited from Observable.mergeMapTo*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/mergeMapTo.d.ts:5*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/mergeMapTo.d.ts:5*
 
 
 
@@ -1384,7 +1384,7 @@ ___
 
 *Inherited from Observable.mergeScan*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/mergeScan.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/mergeScan.d.ts:4*
 
 
 
@@ -1400,7 +1400,7 @@ ___
 
 *Inherited from Observable.min*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/min.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/min.d.ts:4*
 
 
 
@@ -1416,7 +1416,7 @@ ___
 
 *Inherited from Observable.multicast*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/multicast.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/multicast.d.ts:4*
 
 
 
@@ -1432,7 +1432,7 @@ ___
 
 *Inherited from Observable.observeOn*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/observeOn.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/observeOn.d.ts:4*
 
 
 
@@ -1448,7 +1448,7 @@ ___
 
 *Inherited from Observable.onErrorResumeNext*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/onErrorResumeNext.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/onErrorResumeNext.d.ts:4*
 
 
 
@@ -1464,7 +1464,7 @@ ___
 
 *Inherited from Observable.pairwise*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/pairwise.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/pairwise.d.ts:4*
 
 
 
@@ -1480,7 +1480,7 @@ ___
 
 *Inherited from Observable.partition*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/partition.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/partition.d.ts:4*
 
 
 
@@ -1496,7 +1496,7 @@ ___
 
 *Inherited from Observable.pluck*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/pluck.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/pluck.d.ts:4*
 
 
 
@@ -1512,7 +1512,7 @@ ___
 
 *Inherited from Observable.publish*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/publish.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/publish.d.ts:4*
 
 
 
@@ -1528,7 +1528,7 @@ ___
 
 *Inherited from Observable.publishBehavior*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/publishBehavior.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/publishBehavior.d.ts:4*
 
 
 
@@ -1544,7 +1544,7 @@ ___
 
 *Inherited from Observable.publishLast*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/publishLast.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/publishLast.d.ts:4*
 
 
 
@@ -1560,7 +1560,7 @@ ___
 
 *Inherited from Observable.publishReplay*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/publishReplay.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/publishReplay.d.ts:4*
 
 
 
@@ -1576,7 +1576,7 @@ ___
 
 *Inherited from Observable.race*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/race.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/race.d.ts:4*
 
 
 
@@ -1592,7 +1592,7 @@ ___
 
 *Inherited from Observable.reduce*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/reduce.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/reduce.d.ts:4*
 
 
 
@@ -1608,7 +1608,7 @@ ___
 
 *Inherited from Observable.repeat*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/repeat.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/repeat.d.ts:4*
 
 
 
@@ -1624,7 +1624,7 @@ ___
 
 *Inherited from Observable.repeatWhen*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/repeatWhen.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/repeatWhen.d.ts:4*
 
 
 
@@ -1640,7 +1640,7 @@ ___
 
 *Inherited from Observable.retry*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/retry.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/retry.d.ts:4*
 
 
 
@@ -1656,7 +1656,7 @@ ___
 
 *Inherited from Observable.retryWhen*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/retryWhen.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/retryWhen.d.ts:4*
 
 
 
@@ -1672,7 +1672,7 @@ ___
 
 *Inherited from Observable.sample*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/sample.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/sample.d.ts:4*
 
 
 
@@ -1688,7 +1688,7 @@ ___
 
 *Inherited from Observable.sampleTime*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/sampleTime.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/sampleTime.d.ts:4*
 
 
 
@@ -1704,7 +1704,7 @@ ___
 
 *Inherited from Observable.scan*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/scan.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/scan.d.ts:4*
 
 
 
@@ -1720,7 +1720,7 @@ ___
 
 *Inherited from Observable.sequenceEqual*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/sequenceEqual.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/sequenceEqual.d.ts:4*
 
 
 
@@ -1736,7 +1736,7 @@ ___
 
 *Inherited from Observable.share*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/share.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/share.d.ts:4*
 
 
 
@@ -1752,7 +1752,7 @@ ___
 
 *Inherited from Observable.shareReplay*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/shareReplay.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/shareReplay.d.ts:4*
 
 
 
@@ -1768,7 +1768,7 @@ ___
 
 *Inherited from Observable.single*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/single.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/single.d.ts:4*
 
 
 
@@ -1784,7 +1784,7 @@ ___
 
 *Inherited from Observable.skip*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/skip.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/skip.d.ts:4*
 
 
 
@@ -1800,7 +1800,7 @@ ___
 
 *Inherited from Observable.skipLast*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/skipLast.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/skipLast.d.ts:4*
 
 
 
@@ -1816,7 +1816,7 @@ ___
 
 *Inherited from Observable.skipUntil*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/skipUntil.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/skipUntil.d.ts:4*
 
 
 
@@ -1832,7 +1832,7 @@ ___
 
 *Inherited from Observable.skipWhile*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/skipWhile.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/skipWhile.d.ts:4*
 
 
 
@@ -1848,7 +1848,7 @@ ___
 
 *Inherited from Observable.startWith*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/startWith.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/startWith.d.ts:4*
 
 
 
@@ -1864,7 +1864,7 @@ ___
 
 *Inherited from Observable.subscribeOn*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/subscribeOn.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/subscribeOn.d.ts:4*
 
 
 
@@ -1880,7 +1880,7 @@ ___
 
 *Inherited from Observable.switch*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/switch.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/switch.d.ts:4*
 
 
 
@@ -1896,7 +1896,7 @@ ___
 
 *Inherited from Observable.switchMap*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/switchMap.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/switchMap.d.ts:4*
 
 
 
@@ -1912,7 +1912,7 @@ ___
 
 *Inherited from Observable.switchMapTo*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/switchMapTo.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/switchMapTo.d.ts:4*
 
 
 
@@ -1928,7 +1928,7 @@ ___
 
 *Inherited from Observable.take*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/take.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/take.d.ts:4*
 
 
 
@@ -1944,7 +1944,7 @@ ___
 
 *Inherited from Observable.takeLast*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/takeLast.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/takeLast.d.ts:4*
 
 
 
@@ -1960,7 +1960,7 @@ ___
 
 *Inherited from Observable.takeUntil*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/takeUntil.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/takeUntil.d.ts:4*
 
 
 
@@ -1976,7 +1976,7 @@ ___
 
 *Inherited from Observable.takeWhile*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/takeWhile.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/takeWhile.d.ts:4*
 
 
 
@@ -1992,7 +1992,7 @@ ___
 
 *Inherited from Observable.throttle*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/throttle.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/throttle.d.ts:4*
 
 
 
@@ -2008,7 +2008,7 @@ ___
 
 *Inherited from Observable.throttleTime*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/throttleTime.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/throttleTime.d.ts:4*
 
 
 
@@ -2024,7 +2024,7 @@ ___
 
 *Inherited from Observable.throw*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/Observable.d.ts:61*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/Observable.d.ts:61*
 
 
 
@@ -2040,7 +2040,7 @@ ___
 
 *Inherited from Observable.timeInterval*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/timeInterval.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/timeInterval.d.ts:4*
 
 
 
@@ -2056,7 +2056,7 @@ ___
 
 *Inherited from Observable.timeout*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/timeout.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/timeout.d.ts:4*
 
 
 
@@ -2072,7 +2072,7 @@ ___
 
 *Inherited from Observable.timeoutWith*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/timeoutWith.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/timeoutWith.d.ts:4*
 
 
 
@@ -2088,7 +2088,7 @@ ___
 
 *Inherited from Observable.timestamp*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/timestamp.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/timestamp.d.ts:4*
 
 
 
@@ -2104,7 +2104,7 @@ ___
 
 *Inherited from Observable.toArray*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/toArray.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/toArray.d.ts:4*
 
 
 
@@ -2120,7 +2120,7 @@ ___
 
 *Inherited from Observable.toPromise*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/toPromise.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/toPromise.d.ts:4*
 
 
 
@@ -2136,7 +2136,7 @@ ___
 
 *Inherited from Observable.window*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/window.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/window.d.ts:4*
 
 
 
@@ -2152,7 +2152,7 @@ ___
 
 *Inherited from Observable.windowCount*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/windowCount.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/windowCount.d.ts:4*
 
 
 
@@ -2168,7 +2168,7 @@ ___
 
 *Inherited from Observable.windowTime*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/windowTime.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/windowTime.d.ts:4*
 
 
 
@@ -2184,7 +2184,7 @@ ___
 
 *Inherited from Observable.windowToggle*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/windowToggle.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/windowToggle.d.ts:4*
 
 
 
@@ -2200,7 +2200,7 @@ ___
 
 *Inherited from Observable.windowWhen*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/windowWhen.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/windowWhen.d.ts:4*
 
 
 
@@ -2216,7 +2216,7 @@ ___
 
 *Inherited from Observable.withLatestFrom*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/withLatestFrom.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/withLatestFrom.d.ts:4*
 
 
 
@@ -2232,7 +2232,7 @@ ___
 
 *Inherited from Observable.zip*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/zip.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/zip.d.ts:4*
 
 
 
@@ -2248,7 +2248,7 @@ ___
 
 *Inherited from Observable.zipAll*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/operator/zipAll.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/operator/zipAll.d.ts:4*
 
 
 
@@ -2271,7 +2271,7 @@ ___
 
 *Overrides Observable._subscribe*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/Subject.d.ts:30*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/Subject.d.ts:30*
 
 
 
@@ -2306,7 +2306,7 @@ ___
 
 *Overrides Observable._trySubscribe*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/Subject.d.ts:29*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/Subject.d.ts:29*
 
 
 
@@ -2339,7 +2339,7 @@ ___
 
 *Inherited from Subject.asObservable*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/Subject.d.ts:31*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/Subject.d.ts:31*
 
 
 
@@ -2364,7 +2364,7 @@ ___
 
 *Inherited from Subject.complete*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/Subject.d.ts:27*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/Subject.d.ts:27*
 
 
 
@@ -2387,7 +2387,7 @@ ___
 
 
 
-*Defined in endpoints/Realtime.ts:78*
+*Defined in [endpoints/Realtime.ts:78](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/endpoints/Realtime.ts#L78)*
 
 
 
@@ -2412,7 +2412,7 @@ ___
 
 *Inherited from Subject.error*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/Subject.d.ts:26*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/Subject.d.ts:26*
 
 
 
@@ -2445,7 +2445,7 @@ ___
 
 *Inherited from Observable.forEach*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/Observable.d.ts:58*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/Observable.d.ts:58*
 
 
 **method**: forEach
@@ -2481,7 +2481,7 @@ ___
 
 
 
-*Defined in endpoints/Realtime.ts:56*
+*Defined in [endpoints/Realtime.ts:56](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/endpoints/Realtime.ts#L56)*
 
 
 
@@ -2504,7 +2504,7 @@ ___
 
 
 
-*Defined in endpoints/Realtime.ts:27*
+*Defined in [endpoints/Realtime.ts:27](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/endpoints/Realtime.ts#L27)*
 
 
 
@@ -2531,7 +2531,7 @@ ___
 
 *Overrides Observable.lift*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/Subject.d.ts:24*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/Subject.d.ts:24*
 
 
 
@@ -2567,7 +2567,7 @@ ___
 
 *Inherited from Subject.next*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/Subject.d.ts:25*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/Subject.d.ts:25*
 
 
 
@@ -2598,7 +2598,7 @@ ___
 
 
 
-*Defined in endpoints/Realtime.ts:60*
+*Defined in [endpoints/Realtime.ts:60](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/endpoints/Realtime.ts#L60)*
 
 
 
@@ -2621,7 +2621,7 @@ ___
 
 
 
-*Defined in endpoints/Realtime.ts:91*
+*Defined in [endpoints/Realtime.ts:91](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/endpoints/Realtime.ts#L91)*
 
 
 
@@ -2658,7 +2658,7 @@ ___
 
 *Inherited from Observable.subscribe*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/Observable.d.ts:47*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/Observable.d.ts:47*
 
 
 
@@ -2671,7 +2671,7 @@ ___
 
 *Inherited from Observable.subscribe*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/Observable.d.ts:48*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/Observable.d.ts:48*
 
 
 
@@ -2692,7 +2692,7 @@ ___
 
 *Inherited from Observable.subscribe*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/Observable.d.ts:49*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/Observable.d.ts:49*
 
 
 
@@ -2727,7 +2727,7 @@ ___
 
 *Inherited from Subject.unsubscribe*
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/Subject.d.ts:28*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/Subject.d.ts:28*
 
 
 

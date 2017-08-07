@@ -1,4 +1,4 @@
-[broid-api-sdk](../README.md) > ["endpoints/Realtime"](../modules/_endpoints_realtime_.md) > [Realtime](../classes/_endpoints_realtime_.realtime.md) > [Observable](../modules/_endpoints_realtime_.realtime.observable.md)
+[@broid/api-sdk](../README.md) > ["endpoints/Realtime"](../modules/_endpoints_realtime_.md) > [Realtime](../classes/_endpoints_realtime_.realtime.md) > [Observable](../modules/_endpoints_realtime_.realtime.observable.md)
 
 
 
@@ -44,7 +44,7 @@
 
 **●  ajax**:  *`AjaxCreationMethod`* 
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/observable/dom/ajax.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/observable/dom/ajax.d.ts:4*
 
 
 
@@ -58,7 +58,7 @@ ___
 
 **●  bindCallback**:  *`create`* 
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/observable/bindCallback.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/observable/bindCallback.d.ts:4*
 
 
 
@@ -72,7 +72,7 @@ ___
 
 **●  bindNodeCallback**:  *`create`* 
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/observable/bindNodeCallback.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/observable/bindNodeCallback.d.ts:4*
 
 
 
@@ -86,7 +86,7 @@ ___
 
 **●  combineLatest**:  *`combineLatest`* 
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/observable/combineLatest.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/observable/combineLatest.d.ts:4*
 
 
 
@@ -100,7 +100,7 @@ ___
 
 **●  concat**:  *`concatStatic`* 
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/observable/concat.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/observable/concat.d.ts:4*
 
 
 
@@ -114,7 +114,7 @@ ___
 
 **●  defer**:  *`create`* 
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/observable/defer.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/observable/defer.d.ts:4*
 
 
 
@@ -128,7 +128,7 @@ ___
 
 **●  empty**:  *`create`* 
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/observable/empty.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/observable/empty.d.ts:4*
 
 
 
@@ -142,7 +142,7 @@ ___
 
 **●  forkJoin**:  *`create`* 
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/observable/forkJoin.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/observable/forkJoin.d.ts:4*
 
 
 
@@ -156,7 +156,7 @@ ___
 
 **●  from**:  *`create`* 
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/observable/from.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/observable/from.d.ts:4*
 
 
 
@@ -170,7 +170,7 @@ ___
 
 **●  fromEvent**:  *`create`* 
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/observable/fromEvent.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/observable/fromEvent.d.ts:4*
 
 
 
@@ -184,7 +184,7 @@ ___
 
 **●  fromEventPattern**:  *`create`* 
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/observable/fromEventPattern.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/observable/fromEventPattern.d.ts:4*
 
 
 
@@ -198,7 +198,7 @@ ___
 
 **●  fromPromise**:  *`create`* 
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/observable/fromPromise.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/observable/fromPromise.d.ts:4*
 
 
 
@@ -212,7 +212,7 @@ ___
 
 **●  generate**:  *`create`* 
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/observable/generate.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/observable/generate.d.ts:4*
 
 
 
@@ -226,7 +226,7 @@ ___
 
 **●  interval**:  *`create`* 
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/observable/interval.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/observable/interval.d.ts:4*
 
 
 
@@ -240,7 +240,7 @@ ___
 
 **●  merge**:  *`mergeStatic`* 
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/observable/merge.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/observable/merge.d.ts:4*
 
 
 
@@ -254,7 +254,7 @@ ___
 
 **●  never**:  *`create`* 
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/observable/never.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/observable/never.d.ts:4*
 
 
 
@@ -268,7 +268,7 @@ ___
 
 **●  of**:  *`of`* 
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/observable/of.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/observable/of.d.ts:4*
 
 
 
@@ -282,7 +282,7 @@ ___
 
 **●  onErrorResumeNext**:  *`onErrorResumeNextStatic`* 
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/observable/onErrorResumeNext.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/observable/onErrorResumeNext.d.ts:4*
 
 
 
@@ -296,7 +296,7 @@ ___
 
 **●  pairs**:  *`create`* 
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/observable/pairs.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/observable/pairs.d.ts:4*
 
 
 
@@ -310,7 +310,7 @@ ___
 
 **●  race**:  *`raceStatic`* 
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/observable/race.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/observable/race.d.ts:4*
 
 
 
@@ -324,7 +324,7 @@ ___
 
 **●  range**:  *`create`* 
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/observable/range.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/observable/range.d.ts:4*
 
 
 
@@ -338,7 +338,7 @@ ___
 
 **●  timer**:  *`create`* 
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/observable/timer.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/observable/timer.d.ts:4*
 
 
 
@@ -352,7 +352,7 @@ ___
 
 **●  using**:  *`create`* 
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/observable/using.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/observable/using.d.ts:4*
 
 
 
@@ -366,7 +366,7 @@ ___
 
 **●  webSocket**:  *`create`* 
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/observable/dom/webSocket.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/observable/dom/webSocket.d.ts:4*
 
 
 
@@ -380,7 +380,7 @@ ___
 
 **●  zip**:  *`zipStatic`* 
 
-*Defined in /Users/killix/MyWorld/projects/BroidHQ/broid-api-js-sdk/node_modules/rxjs/add/observable/zip.d.ts:4*
+*Defined in /Users/dustinblackman/Git/broid-api-sdk-js/node_modules/rxjs/add/observable/zip.d.ts:4*
 
 
 

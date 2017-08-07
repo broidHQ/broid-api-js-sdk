@@ -1,4 +1,4 @@
-[broid-api-sdk](../README.md) > ["helpers/WebSocket"](../modules/_helpers_websocket_.md)
+[@broid/api-sdk](../README.md) > ["helpers/WebSocket"](../modules/_helpers_websocket_.md)
 
 
 

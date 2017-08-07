@@ -1,4 +1,4 @@
-[broid-api-sdk](../README.md) > ["BroidAPISDK"](../modules/_broidapisdk_.md) > [BroidAPISDK](../classes/_broidapisdk_.broidapisdk.md)
+[@broid/api-sdk](../README.md) > ["BroidAPISDK"](../modules/_broidapisdk_.md) > [BroidAPISDK](../classes/_broidapisdk_.broidapisdk.md)
 
 
 
@@ -41,7 +41,7 @@
 
 
 
-*Defined in [BroidAPISDK.ts:16](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/BroidAPISDK.ts#L16)*
+*Defined in [BroidAPISDK.ts:16](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/BroidAPISDK.ts#L16)*
 
 
 
@@ -50,7 +50,7 @@
 | Param | Type | Default value | Description |
 | ------ | ------ | ------ | ------ |
 | credentials | `any`  | - |   - |
-| hostUrl | `string`  | &quot;https://api-dev.broid.ai&quot; |   - |
+| hostUrl | `string`  | &quot;https://api.broid.ai&quot; |   - |
 | apiVersion | `string`  | &quot;1&quot; |   - |
 | logLevel | `string`  | &quot;info&quot; |   - |
 
@@ -70,7 +70,7 @@
 
 **●  apiVersion**:  *`string`* 
 
-*Defined in [BroidAPISDK.ts:20](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/BroidAPISDK.ts#L20)*
+*Defined in [BroidAPISDK.ts:20](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/BroidAPISDK.ts#L20)*
 
 
 
@@ -84,7 +84,7 @@ ___
 
 **●  applications**:  *[Application](_endpoints_application_.application.md)* 
 
-*Defined in [BroidAPISDK.ts:15](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/BroidAPISDK.ts#L15)*
+*Defined in [BroidAPISDK.ts:15](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/BroidAPISDK.ts#L15)*
 
 
 
@@ -98,7 +98,7 @@ ___
 
 **●  credentials**:  *`any`* 
 
-*Defined in [BroidAPISDK.ts:18](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/BroidAPISDK.ts#L18)*
+*Defined in [BroidAPISDK.ts:18](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/BroidAPISDK.ts#L18)*
 
 
 
@@ -112,7 +112,7 @@ ___
 
 **●  hostUrl**:  *`string`* 
 
-*Defined in [BroidAPISDK.ts:19](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/BroidAPISDK.ts#L19)*
+*Defined in [BroidAPISDK.ts:19](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/BroidAPISDK.ts#L19)*
 
 
 
@@ -126,7 +126,7 @@ ___
 
 **●  http**:  *[Http](_helpers_http_.http.md)* 
 
-*Defined in [BroidAPISDK.ts:10](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/BroidAPISDK.ts#L10)*
+*Defined in [BroidAPISDK.ts:10](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/BroidAPISDK.ts#L10)*
 
 
 
@@ -140,7 +140,7 @@ ___
 
 **●  integrations**:  *[Integration](_endpoints_integration_.integration.md)* 
 
-*Defined in [BroidAPISDK.ts:16](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/BroidAPISDK.ts#L16)*
+*Defined in [BroidAPISDK.ts:16](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/BroidAPISDK.ts#L16)*
 
 
 
@@ -154,7 +154,7 @@ ___
 
 **●  logLevel**:  *`string`* 
 
-*Defined in [BroidAPISDK.ts:21](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/BroidAPISDK.ts#L21)*
+*Defined in [BroidAPISDK.ts:21](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/BroidAPISDK.ts#L21)*
 
 
 
@@ -168,7 +168,7 @@ ___
 
 **●  logger**:  *`Logger`* 
 
-*Defined in [BroidAPISDK.ts:11](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/BroidAPISDK.ts#L11)*
+*Defined in [BroidAPISDK.ts:11](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/BroidAPISDK.ts#L11)*
 
 
 
@@ -182,7 +182,7 @@ ___
 
 **●  rtm**:  *[Realtime](_endpoints_realtime_.realtime.md)`any`* 
 
-*Defined in [BroidAPISDK.ts:12](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/BroidAPISDK.ts#L12)*
+*Defined in [BroidAPISDK.ts:12](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/BroidAPISDK.ts#L12)*
 
 
 
@@ -196,7 +196,7 @@ ___
 
 **●  users**:  *[User](_endpoints_user_.user.md)* 
 
-*Defined in [BroidAPISDK.ts:14](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/BroidAPISDK.ts#L14)*
+*Defined in [BroidAPISDK.ts:14](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/BroidAPISDK.ts#L14)*
 
 
 
@@ -215,7 +215,7 @@ ___
 
 
 
-*Defined in [BroidAPISDK.ts:37](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/BroidAPISDK.ts#L37)*
+*Defined in [BroidAPISDK.ts:37](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/BroidAPISDK.ts#L37)*
 
 
 
@@ -238,7 +238,7 @@ ___
 
 
 
-*Defined in [BroidAPISDK.ts:42](https://github.com/broidHQ/broid-api-js-sdk/blob/905a367/src/BroidAPISDK.ts#L42)*
+*Defined in [BroidAPISDK.ts:42](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/BroidAPISDK.ts#L42)*
 
 
 
