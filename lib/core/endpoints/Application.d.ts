@@ -12,6 +12,8 @@ export declare class Application {
     disable(id: string): Promise<null>;
     info(id: string): Promise<interfaces.Application>;
     integrations(id: string): Promise<interfaces.Integration[]>;
-    update(id: string, application: interfaces.Application): Promise<interfaces.ApplicationWebHookURL>;
-    setWebHook(id: string, webhook: interfaces.ApplicationWebHookURL): Promise<interfaces.ApplicationWebHookURL>;
+    update(id: string, application: interfaces.Application): Promise<null>;
+    setWebHook(id: string, webhook: interfaces.ApplicationWebHookURL): Promise<null>;
+    createKey(application_id: string): Promise<interfaces.ApplicationKey>;
+    deleteKey(id: string): Promise<null>;
 }

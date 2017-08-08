@@ -50,3 +50,12 @@ export interface SendMessage extends ObjectConstructor {
 export interface Realtime extends ObjectConstructor {
   url: string,
 }
+
+export interface ApplicationKey extends ObjectConstructor {
+  created_at: string,
+  id: number,
+  resource_id: number,
+  secret: string,
+  state: string,
+  updated_at?: string,
+}
