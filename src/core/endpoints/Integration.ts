@@ -24,7 +24,7 @@ export class Integration {
     return this.http.makeRequest('DELETE', `integrations/${id}/disable`, null);
   }
 
-  public update(id: number, integration: interfaces.Integration): Promise<interfaces.Integration> {
+  public update(id: number, integration: interfaces.Integration): Promise<null> {
     this.logger.debug(`Update the integration ${id}`, integration);
     return this.http.makeRequest('PUT', `integrations/${id}`, integration);
   }

@@ -29,7 +29,6 @@ export class Application {
     return this.http.makeRequest('GET', `applications/${id}`, null);
   }
 
-
   public integrations(id: string): Promise<interfaces.Integration[]> {
     this.logger.debug(`Get integrations for application ${id}`);
     return this.http.makeRequest('GET', `applications/${id}/integrations`, null);
@@ -38,7 +37,7 @@ export class Application {
   public update(
     id: string,
     application: interfaces.Application
-  ): Promise<interfaces.ApplicationWebHookURL> {
+  ): Promise<null> {
     this.logger.debug(`Update the application ${id}`, application);
     return this.http.makeRequest('PUT', `applications/${id}`, application);
   }
@@ -46,8 +45,21 @@ export class Application {
   public setWebHook(
     id: string,
     webhook: interfaces.ApplicationWebHookURL
-  ): Promise<interfaces.ApplicationWebHookURL> {
+  ): Promise<null> {
     this.logger.debug(`Set the WebHook for application ${id}`, webhook);
     return this.http.makeRequest('PUT', `applications/${id}`, webhook);
+  }
+
+  public createKey(application_id: string): Promise<interfaces.ApplicationKey> {
+    this.logger.debug(`Create the Key for application ${application_id}`);
+    return this.http.makeRequest('PUT', `keys/applications/`, {
+      resource_id: application_id,
+      state: 'enable'
+    } as any);
+  }
+
+  public deleteKey(id: string): Promise<null> {
+    this.logger.debug(`Delete the Application key ${id}`);
+    return this.http.makeRequest('DELETE', `keys/applications/${id}`, null);
   }
 }
