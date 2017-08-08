@@ -7,6 +7,7 @@
     "target": "es2015",
     "module": "commonjs",
     "outDir": "lib",
+    "declaration": true,
     "removeComments": true,
     "preserveConstEnums": true,
     "noImplicitReturns": true,
