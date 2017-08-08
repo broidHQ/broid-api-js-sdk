@@ -10,5 +10,5 @@ export declare class Integration {
     create(integration: interfaces.Integration): Promise<interfaces.Integration>;
     delete(id: number): Promise<null>;
     disable(id: number): Promise<null>;
-    update(id: number, integration: interfaces.Integration): Promise<interfaces.Integration>;
+    update(id: number, integration: interfaces.Integration): Promise<null>;
 }

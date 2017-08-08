@@ -13,7 +13,7 @@ export class User {
     return this.http.makeRequest('GET', `users/me`, null);
   }
 
-  public update(id: number, user: interfaces.User): Promise<interfaces.User> {
+  public update(id: number, user: interfaces.User): Promise<null> {
     this.logger.debug(`Update the user ${id}`, user);
     return this.http.makeRequest('PUT', `users/${id}`, user);
   }
