@@ -52,7 +52,7 @@ export class Application {
 
   public createKey(application_id: string): Promise<interfaces.ApplicationKey> {
     this.logger.debug(`Create the Key for application ${application_id}`);
-    return this.http.makeRequest('PUT', `keys/applications/`, {
+    return this.http.makeRequest('POST', `keys/applications/`, {
       resource_id: application_id,
       state: 'enable'
     } as any);
