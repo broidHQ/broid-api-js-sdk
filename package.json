@@ -1,6 +1,6 @@
 {
   "name": "@broid/api-sdk",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "lib/core/index.js",
   "repository": "git@github.com:broidHQ/broid-api-sdk.git",
   "license": "AGPL-3.0+",
