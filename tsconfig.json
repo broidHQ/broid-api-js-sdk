@@ -1,9 +1,7 @@
 {
   "compilerOptions": {
-    "removeComments": true,
     "preserveConstEnums": true,
     "moduleResolution": "node",
-    "baseUrl": ".",
     "target": "es2015",
     "module": "commonjs",
     "outDir": "lib",
@@ -15,10 +13,13 @@
     "noUnusedParameters": true,
     "noEmitOnError": true,
     "strictNullChecks": true,
-    "sourceMap": false
+    "sourceMap": false,
+    "declaration": true,
+    "allowSyntheticDefaultImports": false
   },
   "include": [
-    "src/*.ts"
+    "src/**/*.ts",
+    "src/**/*.json"
   ],
   "exclude": [
     "node_modules"
