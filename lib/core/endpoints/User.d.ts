@@ -8,5 +8,5 @@ export declare class User {
     private logger;
     constructor(http: Http, logger: Logger);
     me(): Promise<interfaces.User>;
-    update(id: number, user: interfaces.User): Promise<interfaces.User>;
+    update(id: number, user: interfaces.User): Promise<null>;
 }
