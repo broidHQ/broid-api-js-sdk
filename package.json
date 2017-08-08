@@ -1,16 +1,24 @@
 {
   "name": "@broid/api-sdk",
   "version": "0.0.1",
-  "main": "lib/index.js",
+  "main": "lib/core/index.js",
   "repository": "git@github.com:broidHQ/broid-api-sdk.git",
   "license": "AGPL-3.0+",
   "author": "Broid Team <opensource@broid.ai> (https://broid.ai)",
   "engines": {
     "node": ">=6.0.0"
   },
-  "types": "./src/interfaces.ts",
+  "types": "./src/lib/interfaces.d.ts",
   "scripts": {
-    "build": "rm -rf lib && tsc -p tsconfig.json",
+    "build": "yarn run clean && tsc -p tsconfig.json",
+    "clean": "rm -rf lib",
+    "lint": "tslint -c tslint.json src/**/*.ts",
+    "lint:watch": "watch 'yarn run lint' src",
+    "nsp-check": "nsp check --warn-only -o summary",
+    "test": "yarn run lint && yarn run build && nyc ava --verbose",
+    "travis": "yarn run test",
+    "tsc:watch": "yarn run build && tsc --watch",
+    "release": "yarn run travis && yarn run build && npm publish --access public",
     "docs": "rm -rf docs && node_modules/.bin/typedoc --theme markdown --out ./docs ./src"
   },
   "dependencies": {
@@ -27,9 +35,16 @@
     "@types/bluebird": "^3.5.8",
     "@types/bluebird-global": "^3.5.3",
     "@types/request-promise": "^4.1.36",
-    "tslint": "^4.3.1",
+    "ava": "^0.17.0",
+    "concurrently": "^3.1.0",
+    "nsp": "^2.6.3",
+    "nyc": "^10.1.2",
+    "tslint": "^5.6.0",
+    "tslint-eslint-rules": "^4.1.1",
+    "tslint-microsoft-contrib": "^5.0.1",
     "typedoc": "^0.7.1",
     "typedoc-plugin-markdown": "^1.0.2",
-    "typescript": "^2.4.1"
+    "typescript": "^2.4.1",
+    "watch": "^1.0.1"
   }
 }
