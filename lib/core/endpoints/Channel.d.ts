@@ -3,12 +3,12 @@ import { Logger } from '@broid/utils';
 import * as Promise from 'bluebird';
 import * as interfaces from '../interfaces';
 import { Http } from '../helpers/Http';
-export declare class Integration {
+export declare class Channel {
     private http;
     private logger;
     constructor(http: Http, logger: Logger);
-    create(integration: interfaces.Integration): Promise<interfaces.Integration>;
+    create(channel: interfaces.Channel): Promise<interfaces.Channel>;
     delete(id: number): Promise<null>;
     disable(id: number): Promise<null>;
-    update(id: number, integration: interfaces.Integration): Promise<null>;
+    update(id: number, channel: interfaces.Channel): Promise<null>;
 }

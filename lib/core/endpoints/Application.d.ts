@@ -11,7 +11,7 @@ export declare class Application {
     delete(id: string): Promise<null>;
     disable(id: string): Promise<null>;
     info(id: string): Promise<interfaces.Application>;
-    integrations(id: string): Promise<interfaces.Integration[]>;
+    channels(id: string): Promise<interfaces.Channel[]>;
     update(id: string, application: interfaces.Application): Promise<null>;
     setWebHook(id: string, webhook: interfaces.ApplicationWebHookURL): Promise<null>;
     createKey(application_id: string): Promise<interfaces.ApplicationKey>;

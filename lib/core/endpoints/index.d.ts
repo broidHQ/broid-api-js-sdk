@@ -1,4 +1,4 @@
 export { Realtime } from './Realtime';
 export { Application } from './Application';
-export { Integration } from './Integration';
+export { Channel } from './Channel';
 export { User } from './User';

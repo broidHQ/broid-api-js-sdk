@@ -29,9 +29,9 @@ export class Application {
     return this.http.makeRequest('GET', `applications/${id}`, null);
   }
 
-  public integrations(id: string): Promise<interfaces.Integration[]> {
-    this.logger.debug(`Get integrations for application ${id}`);
-    return this.http.makeRequest('GET', `applications/${id}/integrations`, null);
+  public channels(id: string): Promise<interfaces.Channel[]> {
+    this.logger.debug(`Get channels for application ${id}`);
+    return this.http.makeRequest('GET', `applications/${id}/channels`, null);
   }
 
   public update(

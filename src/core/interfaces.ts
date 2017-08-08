@@ -21,7 +21,7 @@ export interface Application extends ObjectConstructor {
   webhook_url?: string
 }
 
-export interface Integration extends ObjectConstructor {
+export interface Channel extends ObjectConstructor {
   address?: string,
   application_id: number,
   consumer_key?: string,

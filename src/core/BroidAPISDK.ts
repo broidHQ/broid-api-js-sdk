@@ -2,7 +2,7 @@ import { Logger } from '@broid/utils';
 import * as Promise from 'bluebird';
 
 import { Http } from './helpers/Http';
-import { Application, Integration, Realtime, User } from './endpoints';
+import { Application, Channel, Realtime, User } from './endpoints';
 
 import * as interfaces from './interfaces';
 
@@ -13,7 +13,7 @@ export class BroidAPISDK {
 
   public users: User;
   public applications: Application;
-  public integrations: Integration;
+  public channels: Channel;
 
   constructor(private credentials: any,
               private hostUrl: string = 'https://api.broid.ai',
@@ -31,7 +31,7 @@ export class BroidAPISDK {
 
     this.users = new User(this.http, this.logger);
     this.applications = new Application(this.http, this.logger);
-    this.integrations = new Integration(this.http, this.logger);
+    this.channels = new Channel(this.http, this.logger);
   }
 
   public realtime(): Promise<Realtime<any>> {
