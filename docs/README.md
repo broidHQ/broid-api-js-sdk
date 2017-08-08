@@ -54,14 +54,14 @@ const socket = sdk.realtime()
 
 ### External modules
 
-* ["BroidAPISDK"](modules/_broidapisdk_.md)
-* ["endpoints/Application"](modules/_endpoints_application_.md)
-* ["endpoints/Integration"](modules/_endpoints_integration_.md)
-* ["endpoints/Realtime"](modules/_endpoints_realtime_.md)
-* ["endpoints/User"](modules/_endpoints_user_.md)
-* ["helpers/Http"](modules/_helpers_http_.md)
-* ["helpers/WebSocket"](modules/_helpers_websocket_.md)
-* ["interfaces"](modules/_interfaces_.md)
+* ["core/BroidAPISDK"](modules/_core_broidapisdk_.md)
+* ["core/endpoints/Application"](modules/_core_endpoints_application_.md)
+* ["core/endpoints/Integration"](modules/_core_endpoints_integration_.md)
+* ["core/endpoints/Realtime"](modules/_core_endpoints_realtime_.md)
+* ["core/endpoints/User"](modules/_core_endpoints_user_.md)
+* ["core/helpers/Http"](modules/_core_helpers_http_.md)
+* ["core/helpers/WebSocket"](modules/_core_helpers_websocket_.md)
+* ["core/interfaces"](modules/_core_interfaces_.md)
 
 
 

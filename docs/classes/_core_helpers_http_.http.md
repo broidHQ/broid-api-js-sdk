@@ -1,4 +1,4 @@
-[@broid/api-sdk](../README.md) > ["helpers/Http"](../modules/_helpers_http_.md) > [Http](../classes/_helpers_http_.http.md)
+[@broid/api-sdk](../README.md) > ["core/helpers/Http"](../modules/_core_helpers_http_.md) > [Http](../classes/_core_helpers_http_.http.md)
 
 
 
@@ -8,14 +8,14 @@
 
 ### Constructors
 
-* [constructor](_helpers_http_.http.md#constructor)
+* [constructor](_core_helpers_http_.http.md#constructor)
 
 
 ### Methods
 
-* [_autoParse](_helpers_http_.http.md#_autoparse)
-* [_generateHeaders](_helpers_http_.http.md#_generateheaders)
-* [makeRequest](_helpers_http_.http.md#makerequest)
+* [_autoParse](_core_helpers_http_.http.md#_autoparse)
+* [_generateHeaders](_core_helpers_http_.http.md#_generateheaders)
+* [makeRequest](_core_helpers_http_.http.md#makerequest)
 
 
 
@@ -24,11 +24,11 @@
 <a id="constructor"></a>
 
 
-### ⊕ **new Http**(credentials: *`any`*, hostUrl?: *`string`*, apiVersion?: *`string`*, logger: *`Logger`*): [Http](_helpers_http_.http.md)
+### ⊕ **new Http**(credentials: *`any`*, hostUrl?: *`string`*, apiVersion?: *`string`*, logger: *`Logger`*): [Http](_core_helpers_http_.http.md)
 
 
 
-*Defined in [helpers/Http.ts:9](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/helpers/Http.ts#L9)*
+*Defined in [core/helpers/Http.ts:9](https://github.com/broidHQ/broid-api-js-sdk/blob/0f18411/src/core/helpers/Http.ts#L9)*
 
 
 
@@ -45,7 +45,7 @@
 
 
 
-**Returns:** [Http](_helpers_http_.http.md)
+**Returns:** [Http](_core_helpers_http_.http.md)
 
 ---
 
@@ -61,7 +61,7 @@
 
 
 
-*Defined in [helpers/Http.ts:16](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/helpers/Http.ts#L16)*
+*Defined in [core/helpers/Http.ts:16](https://github.com/broidHQ/broid-api-js-sdk/blob/0f18411/src/core/helpers/Http.ts#L16)*
 
 
 
@@ -93,7 +93,7 @@ ___
 
 
 
-*Defined in [helpers/Http.ts:26](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/helpers/Http.ts#L26)*
+*Defined in [core/helpers/Http.ts:26](https://github.com/broidHQ/broid-api-js-sdk/blob/0f18411/src/core/helpers/Http.ts#L26)*
 
 
 
@@ -116,7 +116,7 @@ ___
 
 
 
-*Defined in [helpers/Http.ts:37](https://github.com/broidHQ/broid-api-js-sdk/blob/5f1b060/src/helpers/Http.ts#L37)*
+*Defined in [core/helpers/Http.ts:37](https://github.com/broidHQ/broid-api-js-sdk/blob/0f18411/src/core/helpers/Http.ts#L37)*
 
 
 
