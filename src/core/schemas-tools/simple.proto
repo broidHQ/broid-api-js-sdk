@@ -1,0 +1,7 @@
+syntax = "proto3";
+message OneOfValues {
+  oneof oneof_choice {
+    int32 int_choice = 1;
+    string string_choice = 2;
+  }
+}
