@@ -186,6 +186,11 @@ export class BroidMessage extends Message<BroidMessage> {
     this.addAttachment('Button', name, url, content, mediaType);
   }
 
+  // Add a attachement to object
+  public addButton(name: string, url: string, content?: string, mediaType?: string): void {
+    this.addAttachment('Button', name, url, content, mediaType);
+  }
+
   public build(): Object {
     const obj = BroidMessage.toObject(message, {
       enums: String,  // enums as string names
@@ -236,6 +241,8 @@ let message = BroidMessage.reply({
 // Generate a simple Note
 message.text('Hello world');
 message.addQuickReply('name', 'url', 'content', 'mediaType');
+// OR
+// message.addButton('name', 'url', 'content', 'mediaType');
 
 console.log(message.build());
 
